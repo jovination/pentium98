@@ -73,6 +73,18 @@ button:focus {
 }
 
 
+body::-webkit-scrollbar {
+    width: 2px;
+  }
+  
+  body::-webkit-scrollbar-track {
+    background: #595959;
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background: #141414;
+  }
+  
 .section {
     position: relative;
     padding-top: 80px;
