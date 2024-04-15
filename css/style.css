@@ -1,10 +1,4 @@
-/*-----------------------------------------------------------
-* Template Name    : Oskar | Responsive Bootstrap 4 Landing Template
-* Author           : CreataThemes
-* Created          : Dec 2018
-* File Description : Main css file of the template
-*------------------------------------------------------------
-*/
+
 
 /***********************
     1.BASIC
@@ -138,7 +132,6 @@ body::-webkit-scrollbar {
 .btn-rounded {
     border-radius: 8px;
 }
-
 
 
 .btn-custom:hover,
@@ -423,8 +416,7 @@ body::-webkit-scrollbar {
 
 .about-img {
     width: 100%;
-    height: 550px;
-    background: gray;
+    height: 500px;
     border-radius: 12px;
     background-image: url(../img/about-bg.jpg);
     background-position: center right;
@@ -516,6 +508,8 @@ body::-webkit-scrollbar {
 .ser_boxes .ser_content p {
     font-size: 15px;
 }
+
+
 
 /*=======================
         7.Education
