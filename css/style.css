@@ -417,22 +417,19 @@ body::-webkit-scrollbar {
         5.ABOUT US
 ============================*/
 
-.about-img:before {
-    content: '';
-    position: absolute;
-    top: 30px;
-    right: 10px;
-    left: 50px;
-    bottom: 0;
-    border: 10px solid #efefef;
-}
 
-.about-img img {
-    box-shadow: -20px -19px 0px -4px #efefef;
-}
+
+
 
 .about-img {
-    padding: 0 30px 30px 15px;
+    width: 100%;
+    height: 550px;
+    background: gray;
+    border-radius: 12px;
+    background-image: url(../img/about-bg.jpg);
+    background-position: center right;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
 .about-work li {
