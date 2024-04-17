@@ -415,14 +415,17 @@ body::-webkit-scrollbar {
 
 
 .about-img {
+    position: relative;
     width: 100%;
     height: 500px;
     border-radius: 12px;
-    background-image: url(../img/about-bg.jpg);
-    background-position: center right;
-    background-size: cover;
+    overflow: hidden; /* Ensure the gradient doesn't overflow */
+    background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/about-bg.jpg);
+    background-position: center right, center;
+    background-size: cover, cover;
     background-repeat: no-repeat;
 }
+
 
 
 
@@ -548,12 +551,12 @@ body::-webkit-scrollbar {
 }
 
 .work_menu li a.active {
-    background-color: #a9143f;
+    background-color: #8A2BE2;
     color: #ffffff;
 }
 
 .work_menu li a:hover {
-    background-color: #a9143f;
+    background-color: #8A2BE2;
     color: #ffffff !important;
 }
 
