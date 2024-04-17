@@ -91,7 +91,7 @@ body::-webkit-scrollbar {
     bottom: 15px;
     height: 37px;
     width: 37px;
-    background-color: #a9143f;
+    background-color: #8A2BE2;
     display: none;
     z-index: 10000;
     border-radius: 50px;
@@ -100,7 +100,7 @@ body::-webkit-scrollbar {
 }
 
 .text-custom {
-    color: #a9143f !important;
+    color: #8A2BE2 !important;
 }
 
 .lan_sec-title {
@@ -122,7 +122,7 @@ body::-webkit-scrollbar {
 .vr_line {
     height: 30px;
     width: 3px;
-    background-color: #a9143f;
+    background-color: #8A2BE2;
 }
 
 .btn {
@@ -424,43 +424,9 @@ body::-webkit-scrollbar {
     background-repeat: no-repeat;
 }
 
-.about-work li {
-    font-size: 18px;
-}
 
-.about-work li::after {
-    content: "";
-    height: 3px;
-    width: 3px;
-    border-radius: 50%;
-    background-color: #757575;
-    margin: 0px 12px;
-    position: relative;
-    display: inline-block;
-    top: -3px;
-}
 
-.about-work li:last-child:after {
-    content: "";
-    display: none;
-}
 
-.skill-custom .progress {
-    height: 10px;
-    margin-bottom: 20px;
-    background-color: #f5f5f5;
-    margin-top: 10px;
-    border: 1px solid #e0e0e0;
-}
-
-.skill-custom .progress-bar {
-    background: #bd5b77;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #a9143f, #bd5b77);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #a9143f, #bd5b77);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
 
 /*=========================
         6.SERVICES
@@ -497,15 +463,12 @@ body::-webkit-scrollbar {
 
 .services_content h5 {
     font-size: 24px;
-    font-weight: 400;
+    font-weight: 300;
     font-family: 'poppins', 'sans-serif'; 
     width: 150px;  
 } 
 
 
-.ser_boxes .ser_content p {
-    font-size: 15px;
-}
 
 
 
