@@ -494,14 +494,13 @@ body::-webkit-scrollbar {
 }
 
 
-.services_content p {
-    font-size: 14px;
-    line-height: 1.6;
-}
 
 .services_content h5 {
-    font-size: 18px;
-}
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'poppins', 'sans-serif'; 
+    width: 150px;  
+} 
 
 
 .ser_boxes .ser_content p {
