@@ -508,7 +508,7 @@ body::-webkit-scrollbar {
 ============================*/
 
 .bg-cta-img {
-    background-image: url('../img/bg-cta-img.jpg');
+    background-image: url('../img/background.jpg');
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
