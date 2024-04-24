@@ -509,8 +509,28 @@ body::-webkit-scrollbar {
    
     background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-5-bg.jpg);
 }
+.box-6{
+    background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-6-bg.jpg);
+ 
+}
+.box-7{
+    background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-7-bg.jpg);
+
+}
+.box-8{
+    background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-8-bg.jpg);
+  
+}
 .box-9{
     background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-9-bg.jpg);
+}
+.box-10{
+    background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-10-bg.jpg);
+
+}
+.box-11{
+    background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-11-bg.jpg);
+
 }
 
 .box-13{
