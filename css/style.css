@@ -489,7 +489,10 @@ body::-webkit-scrollbar {
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+
 }
+
+
 .box-1{
     background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-1-bg.jpg);
 }
@@ -499,7 +502,21 @@ body::-webkit-scrollbar {
 .box-3{
     background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-3-bg.jpg);
 }
+.box-4{
+    background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-4-bg.jpg);
+}
+.box-5{
+   
+    background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-5-bg.jpg);
+}
+.box-9{
+    background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-9-bg.jpg);
+}
 
+.box-13{
+    background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-13-bg.jpg);
+
+}
 
 
 
