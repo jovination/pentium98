@@ -532,6 +532,10 @@ body::-webkit-scrollbar {
     background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-11-bg.jpg);
 
 }
+.box-12{
+    background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-12-bg.jpg);
+
+}
 
 .box-13{
     background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/box-13-bg.jpg);
