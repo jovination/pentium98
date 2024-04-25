@@ -223,6 +223,7 @@ body::-webkit-scrollbar {
 .custom-nav {
     padding: 22px 0px;
     width: 100%;
+    height: 95px;
     border-radius: 0px;
     z-index: 999;
     margin-bottom: 0px;
@@ -239,7 +240,7 @@ body::-webkit-scrollbar {
 .custom-nav .navbar-nav li a {
     font-family: 'poppins', 'sans-serif';
     color: #fff;
-    font-size: 14px;
+    font-size: 18px;
     background-color: transparent !important;
     padding: 7px 0 !important;
     position: relative;
@@ -972,6 +973,7 @@ textarea.form-control {
 
 .footer_detail {
     background-color: #050e0e;
+    font-family: 'poppins', sans-serif;
 }
 
 .subcribe-newslatter input {
@@ -1031,8 +1033,8 @@ textarea.form-control {
 }
 
 .footer_detail .fot_social .social-icon:hover {
-    border-color: #a9143f;
-    color: #a9143f !important;
+    border-color: #8A2BE2;
+    color: #8A2BE2 !important;
 }
 
 .footer_detail .footer_logo {
