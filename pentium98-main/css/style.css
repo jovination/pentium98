@@ -422,8 +422,7 @@ body::-webkit-scrollbar {
 .about-img {
     position: relative;
     width: 100%;
-    height: 500px;
-    border-radius: 12px;
+    height: 400px;
     overflow: hidden; /* Ensure the gradient doesn't overflow */
     background-image: linear-gradient(14deg, rgba(138, 43, 226, 1) 0%, rgba(0, 0, 0, 0.4) 35%), url(../img/about-bg.jpg);
     background-position: center right, center;
@@ -443,7 +442,6 @@ body::-webkit-scrollbar {
     background: #E2F0F6;
 }
 .services_boxes {
-    border-radius: 10px !important;
     position: relative;
     display: flex;
     align-items: flex-end;
