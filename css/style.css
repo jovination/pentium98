@@ -801,7 +801,7 @@ body::-webkit-scrollbar {
 
 .client_boxes h5 {
     font-size: 14px;
-    color: #a9143f;
+    color: #8A2BE2;
     padding: 06px 10px 20px 14px;
 }
 
@@ -899,7 +899,7 @@ body::-webkit-scrollbar {
     margin-right: 5px;
     height: 34px;
     border-radius: 10px;
-    color: #a9143f;
+    color: #8A2BE2;
     width: 34px;
     line-height: 32px;
     display: inline-block;
@@ -927,7 +927,7 @@ textarea.form-control {
 }
 
 .business_form_custom .form-control:focus {
-    border-color: #a9143f  !important;
+    border-color: #8A2BE2  !important;
     box-shadow: none;
     outline: 0;
 }
