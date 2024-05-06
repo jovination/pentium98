@@ -1015,7 +1015,7 @@ textarea.form-control {
 }
 
 .footer_detail ul.footer_menu_list li a:hover {
-    color: #a9143f;
+    color: #8A2BE2;
     transition: all 0.3s;
 }
 
@@ -1076,7 +1076,7 @@ textarea.form-control {
         color: #000;
     }
     .custom-nav .navbar-nav li.active a {
-        color: #a9143f;
+        color: #8A2BE2;
     }
     .custom-nav>.container {
         width: 90%;
